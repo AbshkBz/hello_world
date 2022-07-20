@@ -18,3 +18,4 @@ if this works, I get myself a cookie
 
 let's see what I've got in store
 
+Safe to say that the machine has learned.
