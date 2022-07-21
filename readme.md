@@ -19,3 +19,7 @@ if this works, I get myself a cookie
 let's see what I've got in store
 
 Safe to say that the machine has learned.
+
+## What is this about
+
+Hello World from all major programming languages that I dabbel with. Also, cool code snippets in each anguage that can come in handy from time to time.
