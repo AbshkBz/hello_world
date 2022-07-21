@@ -22,4 +22,4 @@ Safe to say that the machine has learned.
 
 ## What is this about
 
-Hello World from all major programming languages that I dabble with. Also, cool code snippets in each language that can come in handy from time to time.
+Hello World from all major programming languages and libraries that I dabble with. Also, cool code snippets in each language that can come in handy from time to time.
